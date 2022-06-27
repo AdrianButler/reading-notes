@@ -4,7 +4,7 @@
 
 #### What is a growth mindset?
 
-To me, a growth mindset is understanding that everyone learning a skill started from 0. No one woke up and could play guitar, fix a car, code, etc... Every skill can be learned and improved aslong as you continue working on it.
+To me, a growth mindset is understanding that everyone learning a skill started from 0. No one woke up and could play a guitar, fix a car, code, etc... Every skill can be learned and improved aslong as you continue working on it.
 
 #### Reminders to keep me in a growth mindset.
 1. **EVERYONE** starts from zero when learning.
