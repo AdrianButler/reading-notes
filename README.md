@@ -1,1 +1,1 @@
-# My Reading Notes for Code Fellows.
+# Reading Notes
