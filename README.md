@@ -1,6 +1,4 @@
-# Reading Notes
-
-## Code-102
+# Class 1 Reading Notes
 
 ### Growth Mindset -
 
@@ -13,9 +11,6 @@ To me, a growth mindset is understanding that everyone learning a skill started 
 2. There is nothing that can't be learned with enough persistence.
 3. If you're being challenged you're learning.
 
-Here is my [Github Portfolio](https://github.com/AdrianButler)
-
-
 ### Markdown -
 
 #### Headings
@@ -24,3 +19,7 @@ Here is my [Github Portfolio](https://github.com/AdrianButler)
 
 #### How to Style Text
 - **Bold** - Put double asterisks before and after text.
+
+
+
+Here is my [Github Portfolio](https://github.com/AdrianButler)
