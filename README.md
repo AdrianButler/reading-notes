@@ -23,4 +23,4 @@ Here is my [Github Portfolio](https://github.com/AdrianButler)
 - Aslong as you have two headings Github will create a table of contents to the left of the file name, which you can click to navigate the file.
 
 #### How to Text Style
-**Bold** - Put double asterisks before and after text.
+- **Bold** - Put double asterisks before and after text.
