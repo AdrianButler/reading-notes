@@ -53,7 +53,7 @@ To me, a growth mindset is understanding that everyone learning a skill started 
 2. Example 2
 3. Example 3
 
-- You can nest a list by placing a - after a indentation.
+- You can nest a list by placing a - after an indentation.
   - Nested list
     - Nested list in a nested list
       - Nested list in a nested list in a nested list
