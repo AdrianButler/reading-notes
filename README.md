@@ -38,9 +38,30 @@ To me, a growth mindset is understanding that everyone learning a skill started 
 - You can also link to another section in your file by hovering over a heading and copying the link then inserting it using the method above or just plain pasting it
 - To link to another file you just use the first method to create a hyperlink and instead of a url just put the path of the file you want to link to.
   - Ex: \[Example link](/class-2.md) = [Example link](/class-2.md)
+
+#### Images
+- To display an image use the same syntax as the links above except you put an exclamation mark infront of it and link to either the pictures url or source in your repo.
+  - Ex: \!\[Example image](https[]()://upload.wikimedia.org/wikipedia/en/9/95/Test_image.jpg) results in
+ ![Example image](https://upload.wikimedia.org/wikipedia/en/9/95/Test_image.jpg)
  
+#### Lists
 
+- Normal lists are created by putting a - with a space following it on a new line
+- You can make a numbered list with a number followed by a period and a space
+  -Ex:
+1. Example 1
+2. Example 2
+3. Example 3
 
+- You can nest a list by placing a - after a tab
+  - Nested list
+    - Nested list in a nested list
+      - Nested list in a nested list in a nested list
 
+- You can make a task list by placing brackets after a dash.
+  - Ex: - [ ] =
+    - [ ] example task
+  - Ex: - [x] =
+    - [x] example completed task
 
 Here is my [Github Portfolio](https://github.com/AdrianButler)
