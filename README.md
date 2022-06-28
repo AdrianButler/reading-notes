@@ -18,7 +18,28 @@ To me, a growth mindset is understanding that everyone learning a skill started 
 - Aslong as you have two headings Github will create a table of contents to the left of the file name, which you can click to navigate the file.
 
 #### How to Style Text
-- **Bold** - Put double asterisks before and after text.
+- **Bold** - Put double asterisks(\**) before and after text.
+- *Italic* - Put a single asterisk(\*) before and after text.
+- ~~Strikethrough~~ - Put double tildes(\~~) around the text.
+- ***Bold and italic*** - Put three astericks(\*\*\*) before and after the text. 
+- <sub>Subscript</sub> - Use &lt;sub> tag before text and close the sub tag(&lt;/sub>) after the text.
+- <sup>Superscript</sup> - Use &lt;sup> tag before text and close the sup tag(&lt;/sup>) after the text.
+
+#### Quoting
+- You can quote text with a > symbol right before the quote
+> this text is a quote
+
+- You can quote code with single back ticks (\`)
+  - This command is quoted -> `git commit`
+
+#### Links
+- You can create a hyperlink by wrapping the text in brackets([]) and then immediately that wrap the url in parentheses.
+  - Ex: \[Example hyperlink](https:/[]()/www[]().google.[]()com/) = [Example hyperlink](https://www.google.com/)
+- You can also link to another section in your file by hovering over a heading and copying the link then inserting it using the method above or just plain pasting it
+- To link to another file you just use the first method to create a hyperlink and instead of a url just put the path of the file you want to link to.
+  - Ex: \[Example link]()
+ 
+
 
 
 
