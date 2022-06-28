@@ -37,7 +37,7 @@ To me, a growth mindset is understanding that everyone learning a skill started 
   - Ex: \[Example hyperlink](https:/[]()/www[]().google.[]()com/) = [Example hyperlink](https://www.google.com/)
 - You can also link to another section in your file by hovering over a heading and copying the link then inserting it using the method above or just plain pasting it
 - To link to another file you just use the first method to create a hyperlink and instead of a url just put the path of the file you want to link to.
-  - Ex: \[Example link]()
+  - Ex: \[Example link](/class-2.md) = [Example link](/class-2.md)
  
 
 
