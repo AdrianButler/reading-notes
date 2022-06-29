@@ -1,4 +1,4 @@
-# Hello from class 4
+# Class 4
 
 ## Wireframe
 
