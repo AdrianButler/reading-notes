@@ -34,5 +34,15 @@
 
 - The wireframe needs to show what the purpose of the page and what the user can/should be doing.
 - Everything should be organized to make it easy to navigate. Users should have confidence they can do what they came to do.
-- sdf
-- dsf
+- Keep it extremely simple
+
+## HTML Semantics
+
+- A tag is semantic if it clearly describes its meaning.
+  - &lt;footer> very clearly describes its meaning so its semantic
+  - &lt;div> does not describe what it means so its not semantic
+
+## Helpful links
+
+- [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)f
