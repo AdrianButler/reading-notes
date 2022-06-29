@@ -45,4 +45,4 @@
 ## Helpful links
 
 - [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)f
+- [Mozilla HTML Elements](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
