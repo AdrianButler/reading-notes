@@ -16,8 +16,8 @@
 - Inside the brackets you type the property you want to change followed by a colon then the value you want to set and finally a semi colon
 
 > h1 {
-    color: red;
-}
+>    color: red;
+>}
 
 ### Adding CSS to a project
 
