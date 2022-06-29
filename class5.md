@@ -28,3 +28,4 @@
 ### Helpful links
 
 - [All CSS Properties](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#index)
+- [Reset Style Sheet](https://meyerweb.com/eric/tools/css/reset/)
