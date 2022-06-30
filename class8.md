@@ -32,7 +32,7 @@
 
 - For loops repeat an x amount of times
 - for (let i = 0; i < 10; ++i) {code goes here;}
-    - this means repeat that code 10 times or until i < 10
+  - this means repeat that code 10 times or until i < 10
 
 ## While loop
 
@@ -40,5 +40,4 @@
 - If the condition is never met it will run forever
 
 - while (randomColor != blue){randomColor = new randomColor();}
-    - This is saying keep creating a new random color until it equals blue
-    
+  - This is saying keep creating a new random color until it equals blue

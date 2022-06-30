@@ -19,14 +19,10 @@
 
 ## Helpful links
 
-[Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
-
-[Functions](https://www.w3schools.com/js/js_functions.asp)
-
-[Operators](https://www.w3schools.com/js/js_operators.asp)
-
-[Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
-
-[More on Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+- [Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- [Functions](https://www.w3schools.com/js/js_functions.asp)
+- [Operators](https://www.w3schools.com/js/js_operators.asp)
+- [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [More on Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 
 - I don't have too much notes on this section, because I have experience programming, so this is not that new to me.
