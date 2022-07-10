@@ -15,7 +15,7 @@ My name is Adrian(he/him), I am in Oklahoma City, OK. My goal with this class is
 - [Class-8](102/class8.md)
 
 ### Code 201 Reading Notes
-- []()
+- [Reading-1](201/reading1.md)
 - []()
 - []()
 - []()
