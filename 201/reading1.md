@@ -89,7 +89,7 @@ Asking the questions noted in the first section of this page
 
 What do I want to accomplish?
 
-**Why should you use an <h1> element over a <span> element to display a top level heading?**
+**Why should you use an `<h1>` element over a `<span>` element to display a top level heading?**
 
 h1 will automatically have styling to give the content the appearance of a header
 
