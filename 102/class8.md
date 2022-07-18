@@ -16,7 +16,7 @@
 
 - == is not strict about the type while === is
 
-- !== is the oposite of === so it means is strictly not equal
+- !== is the opposite of === so it means is strictly not equal
 
 - != means not equal
 - x != 3 returns false
