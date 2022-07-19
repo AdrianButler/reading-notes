@@ -22,7 +22,7 @@ My name is Adrian(he/him), I am in Oklahoma City, OK. My goal with this class is
 - [Reading-5](201/reading5.md)
 - [Reading-6](201/reading6.md)
 - [Reading-7](201/reading7.md)
-- []()
+- [Reading-8](201/reading8.md)
 - []()
 - []()
 - []()
