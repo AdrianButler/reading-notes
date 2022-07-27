@@ -29,5 +29,3 @@ My name is Adrian(he/him), I am in Oklahoma City, OK. My goal with this class is
 - [Reading-12](201/reading12.md)
 - [Reading-13](201/reading13.md)
 - [Reading-14a](201/reading14a.md)
-- [Reading-14b](201/reading14b.md)
-- [Reading-15](201/reading15.md)
